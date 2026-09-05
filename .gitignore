@@ -1,0 +1,18 @@
+# Secrets - never commit these
+credentials.json
+token.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# VS Code Code Runner leftover files
+tempCodeRunnerFile.py
+
+# OS junk
+.DS_Store
+Thumbs.db
